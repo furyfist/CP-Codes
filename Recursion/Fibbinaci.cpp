@@ -15,8 +15,7 @@ int fib(int n) {
 
 int main() {
     int n = 10;
-  
-      // Finding nth term
+    // Finding nth term
     cout << fib(n);
     return 0;
 }
